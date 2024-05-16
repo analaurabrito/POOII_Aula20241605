@@ -1,0 +1,12 @@
+C:\DevC\Aula20240515Agenda\bin\Debug\Aula20240515Agenda.exe.config
+C:\DevC\Aula20240515Agenda\bin\Debug\Aula20240515Agenda.exe
+C:\DevC\Aula20240515Agenda\bin\Debug\Aula20240515Agenda.pdb
+C:\DevC\Aula20240515Agenda\obj\Debug\Aula20240515Agenda.csproj.AssemblyReference.cache
+C:\DevC\Aula20240515Agenda\obj\Debug\Aula20240515Agenda.csproj.SuggestedBindingRedirects.cache
+C:\DevC\Aula20240515Agenda\obj\Debug\Aula20240515Agenda.FormHome.resources
+C:\DevC\Aula20240515Agenda\obj\Debug\Aula20240515Agenda.Properties.Resources.resources
+C:\DevC\Aula20240515Agenda\obj\Debug\Aula20240515Agenda.csproj.GenerateResource.cache
+C:\DevC\Aula20240515Agenda\obj\Debug\Aula20240515Agenda.csproj.CoreCompileInputs.cache
+C:\DevC\Aula20240515Agenda\obj\Debug\Aula20240515Agenda.exe
+C:\DevC\Aula20240515Agenda\obj\Debug\Aula20240515Agenda.pdb
+C:\DevC\Aula20240515Agenda\obj\Debug\Aula20240515Agenda.Form2.resources
