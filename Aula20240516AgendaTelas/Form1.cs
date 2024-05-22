@@ -37,5 +37,22 @@ namespace Aula20240515Agenda
             form2.Show();
 
         }
+
+        private void btnExcluir_Click(object sender, EventArgs e)
+        {
+            if(dgvContatos.SelectRows.Count > 0)
+            {
+                int selectedIndex = dgvContato.SelectedRows[0].Index;
+                listaContatos.RemoveAt(selectedIndex);
+
+                dgvContatos.DataSource = null;
+                dgvContatos.DataSource = listaContatos;
+                dgvContatos.Refresh();
+            }
+            else
+            {
+                MessageBox.Show("Selecione um contato para remover", "Erro", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+        }
     }
 }
